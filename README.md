@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<p align="center">I am a Full Stack Developer with extensive hands-on experience in both front-end and back-end development. I specialize in building dynamic, responsive web and mobile applications using ReactJS, React Native, and Node.js.
+<p align="center">I am a Software Engineer with extensive hands-on experience in both front-end and back-end development. I specialize in building dynamic, responsive web and mobile applications using ReactJS, React Native, and Node.js.
 </p>
 
 ### 🛠 &nbsp;Tech Stack
